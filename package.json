@@ -1,0 +1,16 @@
+{
+  "name": "randomchatline",
+  "version": "1.0.0",
+  "description": "Bot welcher automatisch in einem zufälligen Zeitabstand Nachrichten, aus einer Datei tweetet.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
